@@ -14,7 +14,7 @@
 ##  📌  Tecnologías:
 
 <img align="left" alt="Angular" width="26px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img align="left"  alt="typescript"  width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"height="40"/>
 <img align="left" alt=".NET" width="26px" src="https://cdn.svgporn.com/logos/dotnet.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
