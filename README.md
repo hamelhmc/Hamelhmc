@@ -4,6 +4,17 @@
 💻 🏡  A Coruña 
 
 
+## 🎖Skills
+
+---
+
+- Desarrollo centrado en **implementar la** **experiencia de usuario UX/ UI**
+- Desarrollo con buenas prácticas: **Clean Code, Pair Programming ,Minimum viable product (MVP)**
+- Desarrollo siguiendo **metodologías Agiles**
+- Aprendizaje continuo
+- Compromiso
+- Trabajo en equipo
+
 ###  📌  Tecnologías:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
