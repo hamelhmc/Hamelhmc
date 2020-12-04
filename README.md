@@ -1,4 +1,4 @@
-## Frontend developer 
+## Developer Junior
 💻 🏡  A Coruña 
 
 
