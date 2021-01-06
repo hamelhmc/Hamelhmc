@@ -16,25 +16,25 @@
 <img align="left" alt="Angular"  height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
 
 <img align="left"  alt="typescript"  height="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"/>
-&nbsp;
+
 <img align="left" alt=".NET" height="30px" src="https://cdn.svgporn.com/logos/dotnet.svg" />
-&nbsp;
+
 <img align="left" alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-&nbsp;
+
 <img align="left" alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-&nbsp;
+
 <img align="left" alt="Sass" height="30px" src="https://cdn.svgporn.com/logos/sass.svg" />
-&nbsp;
+
 <img align="left" alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-&nbsp;
+
 <img align="left" alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" />
-&nbsp;
+
 <img align="left" alt="Node.js" height="30px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
-&nbsp;
+
 <img align="left" alt="rxjs" height="30px" src="https://cdn.svgporn.com/logos/reactivex.svg" />
-&nbsp;
+
 <img align="left" alt="SQL" height="30px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-&nbsp;
+
 <img align="left" alt="MongoDB" height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
 
 <br />
