@@ -53,12 +53,9 @@
 ##  📪  Contacto:
 
 [<img align="left" alt="hamelshmc.github.io" height="30px" src="https://cdn.svgporn.com/logos/google-marketing-platform.svg" />][website]
-[<img align="left" alt="Hamelshmc | Twitter" height="30px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
 [<img align="left" alt="Hamelshmc | LinkedIn" height="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="Hamelshmc  | Instagram" height="30px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />][instagram]
+
 
 
 [website]: https://hamelshmc.github.io/
-[twitter]: https://twitter.com/HamelHMC
-[instagram]: https://www.instagram.com/hamelhmc/
 [linkedin]: https://www.linkedin.com/in/hamelhmc/
