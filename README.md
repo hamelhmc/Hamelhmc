@@ -19,9 +19,9 @@
 &nbsp;
 <img align="left" alt=".NET" height="30px" src="https://cdn.svgporn.com/logos/dotnet.svg" />
 &nbsp;
-<img align="left" alt="HTML5"height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+<img align="left" alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
 &nbsp;
-<img align="left" alt="CSS3" height="30px"" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<img align="left" alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 &nbsp;
 <img align="left" alt="Sass" height="30px" src="https://cdn.svgporn.com/logos/sass.svg" />
 &nbsp;
