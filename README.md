@@ -12,6 +12,7 @@
 - Trabajo en equipo
 
 ##  📌 &nbsp;Tecnologías:
+<img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
 
 <img align="left" alt="Angular"  height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
 
