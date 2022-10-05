@@ -1,6 +1,5 @@
 ## Developer
 💻 🏡 &nbsp;A Coruña
-
 <br />
 
 ## 🎖&nbsp;Skills
@@ -66,7 +65,6 @@
 [linkedin]: https://www.linkedin.com/in/hamelhmc/
 
 <br />
-<br />
 
 ## 📊&nbsp;GitHub Stats:
 
@@ -74,7 +72,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamelshmc&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
 <br />
 
 ## ✍️&nbsp;Random Dev Quote
