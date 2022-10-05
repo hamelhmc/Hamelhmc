@@ -8,7 +8,6 @@ Aprendiendo cada día algo nuevo e intentado dar lo mejor de mí. 💪🏾
 gracias a los proyectos ambiciosos que sacan lo mejor de mí para poder aportar mi granito
 de arena en cada uno de ellos. 📚
 <br />
-
 ## 🎖&nbsp;Skills
 
 - Desarrollo centrado en **implementar la** **experiencia de usuario UX/ UI**
@@ -18,7 +17,6 @@ de arena en cada uno de ellos. 📚
 - Compromiso
 - Trabajo en equipo
 <br />
-
 ##  📌 &nbsp;Tecnologías:
 
 <img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
