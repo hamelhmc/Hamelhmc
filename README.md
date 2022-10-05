@@ -1,6 +1,8 @@
 ## Developer
+
 💻 🏡 &nbsp;A Coruña
 
+<br />
 
 ## 🎖&nbsp;Skills
 
@@ -11,7 +13,10 @@
 - Compromiso
 - Trabajo en equipo
 
+<br />
+
 ##  📌 &nbsp;Tecnologías:
+
 <img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
 
 <img align="left" alt="Angular"  height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
@@ -62,6 +67,7 @@
 <br />
 
 ## 📊&nbsp;GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamelshmc&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -69,11 +75,13 @@
 <br />
 
 ## ✍️&nbsp;Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br />
 
 ## 😂&nbsp;Random Dev Meme
+
 <img src="https://random-memer.herokuapp.com/" height="100px"/>
 
 <br />
