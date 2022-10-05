@@ -45,8 +45,6 @@ de arena en cada uno de ellos. 📚
 <img align="left" alt="SQL" height="30px" src="https://cdn.svgporn.com/logos/mysql.svg" />
 
 <img align="left" alt="MongoDB" height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
-
-<br />
 <br />
 
 ## ⚙️ Herramientas
@@ -57,8 +55,6 @@ de arena en cada uno de ellos. 📚
 <img align="left" alt="GitHub"  height="30px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 <img align="left" alt="Gitlab"  height="30px" src="https://cdn.svgporn.com/logos/gitlab.svg" />
 <img align="left" alt="Terminal" height="30px" src="https://cdn.svgporn.com/logos/terminal.svg" />
-
-<br />
 <br />
 
 ##  📪 &nbsp;Contacto:
@@ -68,8 +64,6 @@ de arena en cada uno de ellos. 📚
 
 [website]: https://hamelshmc.github.io/
 [linkedin]: https://www.linkedin.com/in/hamelhmc/
-
-<br />
 <br />
 
 ## 📊&nbsp;GitHub Stats:
@@ -84,12 +78,6 @@ de arena en cada uno de ellos. 📚
 ## ✍️&nbsp;Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br />
-
-## 😂&nbsp;Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" height="250px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hamelshmc&icon=4&color=12)](https://visitcount.itsvg.in)
