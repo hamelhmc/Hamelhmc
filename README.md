@@ -7,8 +7,6 @@ Aprendiendo cada día algo nuevo e intentado dar lo mejor de mí. 💪🏾
 🌟 En lo que llevo como programador me he adaptado a varias tecnologías distintas 
 gracias a los proyectos ambiciosos que sacan lo mejor de mí para poder aportar mi granito
 de arena en cada uno de ellos. 📚
-
-
 <br />
 
 ## 🎖&nbsp;Skills
