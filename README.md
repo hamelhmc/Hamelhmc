@@ -66,6 +66,7 @@
 
 <br />
 <br />
+
 ## 📊&nbsp;GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -74,6 +75,7 @@
 
 <br />
 <br />
+
 ## ✍️&nbsp;Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
