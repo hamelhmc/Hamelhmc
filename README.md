@@ -17,7 +17,6 @@ de arena en cada uno de ellos. 📚
 - Aprendizaje continuo
 - Compromiso
 - Trabajo en equipo
-
 <br />
 
 ##  📌 &nbsp;Tecnologías:
