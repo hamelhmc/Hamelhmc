@@ -17,6 +17,7 @@ de arena en cada uno de ellos. 📚
 - Compromiso
 - Trabajo en equipo
 <br />
+
 ##  📌 &nbsp;Tecnologías:
 
 <img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
