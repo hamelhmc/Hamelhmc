@@ -8,6 +8,7 @@ Aprendiendo cada día algo nuevo e intentado dar lo mejor de mí. 💪🏾
 gracias a los proyectos ambiciosos que sacan lo mejor de mí para poder aportar mi granito
 de arena en cada uno de ellos. 📚
 <br />
+
 ## 🎖&nbsp;Skills
 
 - Desarrollo centrado en **implementar la** **experiencia de usuario UX/ UI**
@@ -46,7 +47,7 @@ de arena en cada uno de ellos. 📚
 
 <img align="left" alt="MongoDB" height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
 <br />
-
+<br />
 ## ⚙️ Herramientas
 
 <img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
@@ -56,7 +57,7 @@ de arena en cada uno de ellos. 📚
 <img align="left" alt="Gitlab"  height="30px" src="https://cdn.svgporn.com/logos/gitlab.svg" />
 <img align="left" alt="Terminal" height="30px" src="https://cdn.svgporn.com/logos/terminal.svg" />
 <br />
-
+<br />
 ##  📪 &nbsp;Contacto:
 
 [<img align="left" alt="hamelshmc.github.io" height="30px" src="https://cdn.svgporn.com/logos/google-marketing-platform.svg" />][website]
@@ -65,7 +66,7 @@ de arena en cada uno de ellos. 📚
 [website]: https://hamelshmc.github.io/
 [linkedin]: https://www.linkedin.com/in/hamelhmc/
 <br />
-
+<br />
 ## 📊&nbsp;GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
