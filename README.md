@@ -6,7 +6,7 @@
 Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarrollador. Me gusta 🤓 desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. El 📈 aprendizaje continuo es clave para mi 🏆 éxito y estoy 💪 comprometido con 📚 seguir desarrollando mis 💻 habilidades y conocimientos.
 <br />
 
-## 🎖&nbsp;Skills
+### 🎖&nbsp;Skills
 
 🤝 Trabajo en equipo 
 💻 Desarrollo centrado en la experiencia de usuario (UX/UI) 
@@ -16,7 +16,7 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 💪 Compromiso
 <br />
 
-##  📌 &nbsp;Tecnologías:
+###  📌&nbsp;Tecnologías con las que he trabajado:
 
 <img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
 
@@ -46,7 +46,7 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 <br />
 <br />
 
-## ⚙️ Herramientas
+### ⚙️&nbsp;Herramientas y plataformas que utilizo
 
 <img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" alt="Visual Studio" height="30px" src="https://cdn.svgporn.com/logos/visual-studio.svg" />
@@ -57,7 +57,7 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 <br />
 <br />
 
-##  📪 &nbsp;Contacto:
+###  📪&nbsp;Contacto:
 
 [<img align="left" alt="hamelshmc.github.io" height="30px" src="https://cdn.svgporn.com/logos/google-marketing-platform.svg" />][website]
 [<img align="left" alt="Hamelshmc | LinkedIn" height="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />][linkedin]
@@ -67,10 +67,8 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 <br />
 <br />
 
-## 📊&nbsp;GitHub Stats:
+### 📊&nbsp;Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamelshmc&theme=dracula&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
