@@ -8,12 +8,12 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 
 ## 🎖&nbsp;Skills
 
-- 🤝 Trabajo en equipo 
-- 💻 Desarrollo centrado en la experiencia de usuario (UX/UI) 
-- 🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) 
-- 🧑‍💼 Desarrollo siguiendo metodologías ágiles
-- 📈 Aprendizaje continuo 
-- 💪 Compromiso
+🤝 Trabajo en equipo 
+💻 Desarrollo centrado en la experiencia de usuario (UX/UI) 
+🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) 
+🧑‍💼 Desarrollo siguiendo metodologías ágiles
+📈 Aprendizaje continuo 
+💪 Compromiso
 <br />
 
 ##  📌 &nbsp;Tecnologías:
