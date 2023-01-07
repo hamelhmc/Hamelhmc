@@ -4,9 +4,9 @@
 👋🏾 Hola, soy Hamilton y soy un desarrollador 💻 en constante aprendizaje, tratando de dar lo mejor de mí en cada proyecto. He trabajado con una amplia variedad de tecnologías y me gusta 🤓 desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. Creo que el 📈 aprendizaje continuo es clave para el 🏆 éxito y estoy 💪 comprometido con 📚 seguir desarrollando mis 💻 habilidades y conocimientos.
 
 <br />
-
-### 🎖&nbsp;Skills
 ---
+### 🎖&nbsp;Skills
+
 🤝 Trabajo en equipo <br />
 💻 Desarrollo centrado en la experiencia de usuario (UX/UI) <br />
 🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) <br />
@@ -14,9 +14,9 @@
 📈 Aprendizaje continuo <br />
 💪 Compromiso 
 
-
-###  📌&nbsp;Tecnologías con las que he trabajado:
 ---
+###  📌&nbsp;Tecnologías con las que he trabajado:
+
 <img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
 
 <img align="left" alt="Angular"  height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
@@ -45,9 +45,9 @@
 
 <br />
 <br />
-
-### ⚙️&nbsp;Herramientas y plataformas que utilizo
 ---
+### ⚙️&nbsp;Herramientas y plataformas que utilizo
+
 <img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" alt="Visual Studio" height="30px" src="https://cdn.svgporn.com/logos/visual-studio.svg" />
 <img align="left" alt="Git" height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
@@ -57,9 +57,9 @@
 
 <br />
 <br />
-
-###  📪&nbsp;Contacto:
 ---
+###  📪&nbsp;Contacto:
+
 [<img align="left" alt="hamelshmc.github.io" height="30px" src="https://cdn.svgporn.com/logos/google-marketing-platform.svg" />][website]
 [<img align="left" alt="Hamelshmc | LinkedIn" height="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />][linkedin]
 
@@ -68,9 +68,9 @@
 
 <br />
 <br />
-
-### 📊&nbsp;Stats:
 ---
+### 📊&nbsp;Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
