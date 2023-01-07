@@ -1,19 +1,21 @@
 ## Full-Stack Developer
 💻 🏡 &nbsp;A Coruña
 
-👋🏾 Hola, soy Hamilton y soy un desarrollador 💻 aprendiendo cada día algo nuevo y tratando de dar lo mejor de mí. He trabajado con una amplia variedad de tecnologías gracias a los proyectos ambiciosos que me han permitido aportar mi granito de arena 🌟.
+👋🏾 Hola, soy Hamilton y soy un desarrollador 💻 en constante aprendizaje, tratando de dar lo mejor de mí en cada proyecto. He trabajado con una amplia variedad de tecnologías y me gusta 🤓 desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. Creo que el 📈 aprendizaje continuo es clave para el 🏆 éxito y estoy 💪 comprometido con 📚 seguir desarrollando mis 💻 habilidades y conocimientos.
 
-Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarrollador. Me gusta 🤓 desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. El 📈 aprendizaje continuo es clave para mi 🏆 éxito y estoy 💪 comprometido con 📚 seguir desarrollando mis 💻 habilidades y conocimientos.
+<br />
 <br />
 
 ### 🎖&nbsp;Skills
 
-🤝 Trabajo en equipo 
-💻 Desarrollo centrado en la experiencia de usuario (UX/UI) 
-🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) 
-🧑‍💼 Desarrollo siguiendo metodologías ágiles
-📈 Aprendizaje continuo 
-💪 Compromiso
+🤝 Trabajo en equipo <br />
+💻 Desarrollo centrado en la experiencia de usuario (UX/UI) <br />
+🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) <br />
+🧑‍💼 Desarrollo siguiendo metodologías ágiles <br />
+📈 Aprendizaje continuo <br />
+💪 Compromiso <br />
+
+<br />
 <br />
 
 ###  📌&nbsp;Tecnologías con las que he trabajado:
@@ -43,6 +45,7 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 <img align="left" alt="SQL" height="30px" src="https://cdn.svgporn.com/logos/mysql.svg" />
 
 <img align="left" alt="MongoDB" height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
+
 <br />
 <br />
 
@@ -54,6 +57,7 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 <img align="left" alt="GitHub"  height="30px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 <img align="left" alt="Gitlab"  height="30px" src="https://cdn.svgporn.com/logos/gitlab.svg" />
 <img align="left" alt="Terminal" height="30px" src="https://cdn.svgporn.com/logos/terminal.svg" />
+
 <br />
 <br />
 
@@ -64,6 +68,7 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 
 [website]: https://hamelshmc.github.io/
 [linkedin]: https://www.linkedin.com/in/hamelhmc/
+
 <br />
 <br />
 
@@ -78,6 +83,8 @@ Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarro
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+<br />
+<br />
+
 [![](https://visitcount.itsvg.in/api?id=hamelshmc&icon=4&color=12)](https://visitcount.itsvg.in)
 
