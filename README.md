@@ -14,7 +14,6 @@
 📈 Aprendizaje continuo <br />
 💪 Compromiso 
 
-<br />
 
 ###  📌&nbsp;Tecnologías con las que he trabajado:
 ---
@@ -48,7 +47,7 @@
 <br />
 
 ### ⚙️&nbsp;Herramientas y plataformas que utilizo
-
+---
 <img align="left" alt="Visual Studio Code" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" alt="Visual Studio" height="30px" src="https://cdn.svgporn.com/logos/visual-studio.svg" />
 <img align="left" alt="Git" height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
@@ -60,7 +59,7 @@
 <br />
 
 ###  📪&nbsp;Contacto:
-
+---
 [<img align="left" alt="hamelshmc.github.io" height="30px" src="https://cdn.svgporn.com/logos/google-marketing-platform.svg" />][website]
 [<img align="left" alt="Hamelshmc | LinkedIn" height="30px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />][linkedin]
 
@@ -71,7 +70,7 @@
 <br />
 
 ### 📊&nbsp;Stats:
-
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
