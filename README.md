@@ -6,7 +6,7 @@
 <br />
 
 ### 🎖&nbsp;Skills
-
+---
 🤝 Trabajo en equipo <br />
 💻 Desarrollo centrado en la experiencia de usuario (UX/UI) <br />
 🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) <br />
@@ -17,7 +17,7 @@
 <br />
 
 ###  📌&nbsp;Tecnologías con las que he trabajado:
-
+---
 <img align="left" alt="Vue"  height="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
 
 <img align="left" alt="Angular"  height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
