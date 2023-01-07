@@ -1,22 +1,19 @@
-## Developer
+## Full-Stack Developer
 💻 🏡 &nbsp;A Coruña
 
-👋🏾 Hola, soy Hamilton, desarrollador. 
-Aprendiendo cada día algo nuevo e intentado dar lo mejor de mí. 💪🏾
+👋🏾 Hola, soy Hamilton y soy un desarrollador 💻 aprendiendo cada día algo nuevo y tratando de dar lo mejor de mí. He trabajado con una amplia variedad de tecnologías gracias a los proyectos ambiciosos que me han permitido aportar mi granito de arena 🌟.
 
-🌟 En lo que llevo como programador me he adaptado a varias tecnologías distintas 
-gracias a los proyectos ambiciosos que sacan lo mejor de mí para poder aportar mi granito
-de arena en cada uno de ellos. 📚
+Siempre estoy dispuesto a 💪 afrontar nuevos retos y 🚀 mejorar como desarrollador. Me gusta 🤓 desafiarme y 🔍 buscar oportunidades para 📈 crecer en mi carrera. El 📈 aprendizaje continuo es clave para mi 🏆 éxito y estoy 💪 comprometido con 📚 seguir desarrollando mis 💻 habilidades y conocimientos.
 <br />
 
 ## 🎖&nbsp;Skills
 
-- Desarrollo centrado en **implementar la** **experiencia de usuario UX/ UI**
-- Desarrollo con buenas prácticas: **Clean Code, Pair Programming ,Minimum viable product (MVP)**
-- Desarrollo siguiendo **metodologías Agiles**
-- Aprendizaje continuo
-- Compromiso
-- Trabajo en equipo
+- 🤝 Trabajo en equipo 
+- 💻 Desarrollo centrado en la experiencia de usuario (UX/UI) 
+- 🧹 Desarrollo siguiendo buenas prácticas, como el código limpio y el desarrollo de productos mínimos viables (MVP) 
+- 🧑‍💼 Desarrollo siguiendo metodologías ágiles
+- 📈 Aprendizaje continuo 
+- 💪 Compromiso
 <br />
 
 ##  📌 &nbsp;Tecnologías:
@@ -72,8 +69,8 @@ de arena en cada uno de ellos. 📚
 
 ## 📊&nbsp;GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamelshmc&theme=dracula&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamelshmc&theme=dracula&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
