@@ -50,12 +50,6 @@ Soy un desarrollador apasionado y en constante aprendizaje, con base en A Coruñ
 <br />
 <br />
 
-## Mis estadísticas en Github 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelshmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<br />
-
 ## Una cita aleatoria de desarrollo ✍️
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
