@@ -1,6 +1,8 @@
 # Hola, soy Hamilton 👋🏾
 
-Soy un desarrollador apasionado y en constante aprendizaje, con base en A Coruña. Siempre estoy buscando maneras de mejorar y aportar valor a mis proyectos. Trabajo con una variedad de tecnologías y disfruto enfrentándome a nuevos desafíos y buscando oportunidades para crecer profesionalmente. Creo firmemente que el aprendizaje continuo es clave para el éxito en este campo.
+Soy un desarrollador apasionado y mi enfoque se centra en hallar soluciones prácticas y eficientes para los desafíos del desarrollo frontend. Cada experiencia la considero una oportunidad de aprendizaje, lo que me impulsa a buscar constantemente mejoras en mi carrera profesional. He trabajado en una variedad de tecnologías, desde Angular y Vue hasta React, Astro y Node.js, en proyectos ambiciosos que me han permitido contribuir significativamente.
+
+Me motiva enfrentar nuevos desafíos y crecer como desarrollador. Disfruto buscando oportunidades para superarme y ampliar mis habilidades. Reconozco la importancia del aprendizaje continuo, tanto en mi crecimiento personal como profesional. Aprecio las oportunidades que he tenido hasta ahora y espero con entusiasmo lo que el futuro pueda deparar. Mi objetivo es aportar mi experiencia y pasión al éxito de equipos dinámicos y colaborativos. 🚀🌱
 
 ## Mis habilidades incluyen 🎖
 
